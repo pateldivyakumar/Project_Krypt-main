@@ -4,10 +4,6 @@
 
 Quantum Transfer is a `Web3.0 blockchain application` that enables users to send transactions over the blockchain, with each transaction being permanently recorded on the blockchain. **Now enhanced with PostgreSQL database integration for faster queries and better user experience.**
 
-### Demo / UI
-
-<img src = "https://i.ibb.co/DVF4tNW/image.png"/>
-  
 ### Main Functionalities:
 
 - Users can connect their MetaMask wallets to send ethereum through the blockchain.
