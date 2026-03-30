@@ -86,7 +86,3 @@ To get a local copy up and running follow these simple example steps.
 ├── smart_contract/  # Solidity contracts
 └── DATABASE_SETUP.md # Database setup guide
 ```
-
-### Reference
-
-- [Click Here](https://youtu.be/Wn_Kb3MR_cU))
